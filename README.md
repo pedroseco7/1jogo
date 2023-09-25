@@ -1,1 +1,1 @@
-# 1jogo
+Primeiro jogo feito em Python!
